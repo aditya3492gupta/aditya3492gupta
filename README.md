@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya GUpta</h1>
+<h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
 <h3 align="center">Competitive Coder, Web Developer</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
