@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aditya3492gupta.netlify.app/](https://aditya3492gupta.netlify.app/)
 
-- 📫 How to reach me **aditya3492gupta@gmamil.com**
+- 📫 How to reach me **aditya3492gupta@gmail.com**
 
 - 📄 Know about my experiences [http://bit.ly/aditya-gupta-resume](http://bit.ly/aditya-gupta-resume)
 
