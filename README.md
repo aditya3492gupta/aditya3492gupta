@@ -16,5 +16,5 @@ I'm currently learning MERN Stack
 ![](https://github-contributor-stats.vercel.app/api?username=aditya3492gupta&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aditya3492gupta&icon=2&color=0)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=aditya3492gupta&icon=2&color=0)](https://visitcount.itsvg.in)-->
 
